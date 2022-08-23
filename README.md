@@ -1,4 +1,4 @@
-## Surfs_Up
+## Surf's Up!
 
 For this exercise, I analyzed and explored the climate data for Honolulu, Hawaii. The exercise was split into three parts. 
 
