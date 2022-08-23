@@ -12,10 +12,12 @@ After connecting to the SQLite database file and reflecting the tables into clas
 ![image](https://user-images.githubusercontent.com/104914008/186263215-d90057a1-6479-4317-bd94-e41af7a5df3b.png)
 
 Here are the summary statistics for the daily precipitation. Note that the average rainfall during the one-year period was near 0.2". 
+
 ![image](https://user-images.githubusercontent.com/104914008/186263672-f7993cc0-0df2-4b33-83a6-f29638f5aac1.png)
 
 #### Station Analysis
 The next item I examined was the weather stations, particularly the weather station that had the most data (rows) in the SQL database. This allowed me to see the observed temperatures (TOBS) for the one-year period. I identified weather station USC00519281 as the most active and therefore used its data for this part of the exercise. Once I obtained and filtered the desired information, I created a histogram to see what temperature occurs most frequently; most of the time it was around 75°F (full-size image is available in the Image folder):
+
 ![image](https://user-images.githubusercontent.com/104914008/186264701-181d6b7f-4b7e-4c12-9285-e5032c57d0ba.png)
 
 
