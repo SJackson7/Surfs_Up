@@ -35,13 +35,16 @@ app_climate = Flask(__name__)
 @app_climate.route('/')
 def welcome():
     '''List all available api routes'''
+    '''For "temp" route, enter the start date followed by "/" and end date'''
+    '''Date format must be "YYYY-MM-DD"'''
     return (
         f'Available Routes:<br/>'
         f'/api/v1.0/precipitation<br/>'
         f'/api/v1.0/stations<br/>'
-        f'/api/v1.0/tobs<br/>'
-        f'/api/v1.0/temp/yyyy-mm-dd<br/>'
-        # f'/api/v1.0/end<br/>'
+        f'/api/v1.0/tobs<br/><br/>'
+        f'<b>For "temp" route, enter the start date followed by "/" and end date<br/>'
+        f'Date format must be "YYYY-MM-DD"<br/></b>'
+        f'/api/v1.0/temp/<br/>'
     )
 
 @app_climate.route('/api/v1.0/precipitation')
