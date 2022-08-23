@@ -2,7 +2,7 @@
 import numpy as np
 import datetime as dt
 
-# Python SQL toolkit and Object Relational Mapper
+#python sql toolkit and object relational mapper
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
