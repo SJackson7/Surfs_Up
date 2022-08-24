@@ -41,3 +41,17 @@ First, I identified the average temperatures across all stations for June and De
 
 ![image](https://user-images.githubusercontent.com/104914008/186266455-d02f3fe1-76ee-4d0e-9de3-9525f7011a4a.png)
 
+#### Temperature Analysis: Vacation Days
+One more extra look at a potential vacation from 8/1 to 8/7 to see if the weaather will be less than ideal (because I always looked for clouds in every silver lining).  For this bonus, I looked at the historical data from the dataset to find out the temperatures for this timeframe in previous years. The result was obtaining the minimum, average, and maximum temperatures for these vacation dates. 
+
+I created two charts. The first shows the "Trip Avg Temp", which uses the minimum, average, and maximum temperatures from the query to calculate those metrics. The second chart shows the normal daily temperatures for this potential vacation consisting of the minimum, average, and maximum temperatures from the past year. 
+
+![image](https://user-images.githubusercontent.com/104914008/186298322-3847a20a-731c-4e56-b5d8-e6a2c3a35e28.png)
+![image](https://user-images.githubusercontent.com/104914008/186299764-dfba1f86-4e95-42af-8ce9-6daa7575d50d.png)
+
+Should be good so far, but after examining the weather stations recorded rainfall from 8/1/2017 to 8/7/2017, it is not looking so good. Yes, the prcp or preciptiation values are in inches.
+
+![image](https://user-images.githubusercontent.com/104914008/186299775-e0fbca6c-18f4-487b-bf20-5a0cdbfcfb5b.png)
+
+I think I will try again later. 
+
