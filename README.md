@@ -51,7 +51,7 @@ I created two charts. The first shows the "Trip Avg Temp", which uses the minimu
 
 Should be good so far, but after examining the weather stations recorded rainfall from 8/1/2017 to 8/7/2017, it is not looking so good. Yes, the prcp or preciptiation values are in inches.
 
-![image](https://user-images.githubusercontent.com/104914008/186299775-e0fbca6c-18f4-487b-bf20-5a0cdbfcfb5b.png)
+![image](https://user-images.githubusercontent.com/104914008/186299956-1101f620-4ea1-4f22-b79b-eb7f7ce45d85.png)
 
 I think I will try again later. 
 
